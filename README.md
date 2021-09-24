@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratyushdixit27
 - 👀 I’m interested in ...Programming/Coding
-- 🌱 I’m currently learning ...Devops
+- 🌱 I’m currently learning ...Devops and Cloud Computing
 - 📫 How to reach me ...inkedin.com/in/pratyush-dixit-612a2b191/
 
 <!---
