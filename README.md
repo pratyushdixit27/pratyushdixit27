@@ -2,6 +2,7 @@
                                                                     
 - 👀 I’m interested in ...Programming/Coding
 - 🌱 I’m currently working on ...Devops and Cloud Computing
+- ✨ Programming Language: Java, Python, C, HTML, CSS and Java Script
 - 👯 Practising Frontend Web Development
 - 📫 How to reach me ...linkedin.com/in/pratyush-dixit-612a2b191/
 
