@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @pratyushdixit27
+                                                          👋 Hi, I’m Pratyush Dixit
+                                                                    
 - 👀 I’m interested in ...Programming/Coding
-- 🌱 I’m currently learning ...Devops and Cloud Computing
+- 🌱 I’m currently working on ...Devops and Cloud Computing
+- 👯 Practising Frontend Web Development
 - 📫 How to reach me ...linkedin.com/in/pratyush-dixit-612a2b191/
 
 <!---
